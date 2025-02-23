@@ -9,9 +9,9 @@ A simple Flutter application that fetches and displays weather data using [wttr.
 - Search functionality to check weather for different cities
 
 ## Screenshots
-![Home Screen](screenshots/androidLondon.png)
-![Home Screen](screenshots/androidChennai.png)
-![Home Screen](screenshots/androidKolkata.png)
+![Home Screen](screenshots/androidLondon.jpg)
+![Home Screen](screenshots/androidChennai.jpg)
+![Home Screen](screenshots/androidKolkata.jpg)
 ![Home Screen](screenshots/london_on_linux.png)
 ![Home Screen](screenshots/moscow_linux.png)
 
