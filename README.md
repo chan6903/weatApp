@@ -45,6 +45,6 @@ A simple Flutter application that fetches and displays weather data using [wttr.
 Feel free to contribute by opening issues or submitting pull requests!
 
 ## Author
-- Your Name
+- Chandan
 
 
